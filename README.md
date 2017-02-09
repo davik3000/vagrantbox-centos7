@@ -130,6 +130,14 @@ Without this change vagrant will be unable to apply changes (such as configuring
 
       # vagrant box add --name <box name> centos-7.box
 
+- Check your local repository of Vagrant boxes with:
+
+      # vagrant box list
+
+- Check your local instances of Vagrant images with:
+
+      # vagrant global-status
+
 ### Install your Vagrant box ###
 
 - Create a new folder, that it will contain our new Vagrant machine definition.
