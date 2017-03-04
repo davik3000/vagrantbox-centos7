@@ -1,5 +1,8 @@
 # Vagrantbox - CentOS7
 
+_Update 2017/03/04_: see https://atlas.hashicorp.com/davik3000/boxes/CentOS-7
+
+
 ## Create the base VM in VirtualBox ##
 
 ### Install VirtualBox ###
